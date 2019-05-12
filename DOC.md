@@ -1,3 +1,3 @@
 # document
 
-This is a document.
+This is ~~not~~ a document.
